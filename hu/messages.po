@@ -1617,7 +1617,7 @@ msgstr "Ország színsémájának módosítása"
 #. placeholder {1}: law.data.mapAccent
 #: src/components/_political/law/law.frontConfig.tsx:362
 msgid "Change the country color scheme to <0>{0}</0> with a <1>{1}</1> map accent"
-msgstr "Ország színsémájának módosítása <0>{0}</0> értékre, <1>{1}</1> térkép kiemelésssel"
+msgstr "Ország színsémájának módosítása <0>{0}</0> értékre, <1>{1}</1> térkép kiemeléssel"
 
 #. placeholder {0}: law.data.taxType
 #: src/components/_political/law/law.frontConfig.tsx:63
